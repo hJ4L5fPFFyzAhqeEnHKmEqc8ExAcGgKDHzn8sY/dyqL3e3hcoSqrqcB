@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:7.333333,
+dit-me-may-clone-cua-tao0.mp4
+#EXTINF:7.333333,
+dit-me-may-clone-cua-tao1.mp4
+#EXTINF:6.666667,
+dit-me-may-clone-cua-tao2.mp4
+#EXTINF:7.333333,
+dit-me-may-clone-cua-tao3.mp4
+#EXTINF:7.333333,
+dit-me-may-clone-cua-tao4.mp4
+#EXTINF:0.400000,
+dit-me-may-clone-cua-tao5.mp4
+#EXT-X-ENDLIST
